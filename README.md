@@ -1,5 +1,10 @@
 # OBJECT UTILS
 
+## Install
+```
+npm install object-utils-br
+```
+
 ## 1. Object comparation  
 
 ```
